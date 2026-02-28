@@ -59,15 +59,15 @@ https://github.com/YakumoZn/nonebot-plugin-osugreek.git
 ### 基础命令
 
 ```shell
-/osugreek <希腊字母名称>
+/osugreek <希腊字母名称> <RGB分离强度> #(1-10) 未填则使用默认强度
 ```
 或
 ```shell
-/希腊字母 <希腊字母名称>
+/希腊字母 <希腊字母名称> <RGB分离强度> #(1-10) 未填则使用默认强度
 ```
 
 ### 使用方式
-- 回复图片消息并输入：/osugreek <希腊字母名称>
+- 回复图片消息并输入：/osugreek <希腊字母名称> <RGB分离强度>
 
 <details> 
 <summary><strong>示例</strong></summary>
